@@ -12,7 +12,10 @@ This is a REACT based app show some features for online store. App was created b
 
 
 ## Getting Started
-Clone this repository git -clone
+Clone this repository
+```bash
+git clone https://github.com/nowakos/Online-store.git
+```
 
 
 
