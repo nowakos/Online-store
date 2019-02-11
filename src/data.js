@@ -3,7 +3,7 @@ export const storeProducts = [
   {
     id: 1,
     title: "SAMSUNG Galaxy A7",
-    img: "img/samsungMobile.jpg",
+    img: "/img/samsungMobile.jpg",
     price: 300,
     company: "SAMSUNG",
     category: 'Mobile',
@@ -17,7 +17,7 @@ export const storeProducts = [
   {
     id: 2,
     title: "APPLE iPhone 6S",
-    img: "img/appleMobile.jpg",
+    img: "/img/appleMobile.jpg",
     price: 350,
     company: "APPLE",
     category: 'Mobile',
@@ -31,7 +31,7 @@ export const storeProducts = [
   {
     id: 3,
     title: "HUAWEI Mate 20 Lite",
-    img: "img/huaweiMobile.jpg",
+    img: "/img/huaweiMobile.jpg",
     price: 255,
     company: "HUAWEI",
     category: 'Mobile',
@@ -45,7 +45,7 @@ export const storeProducts = [
   {
     id: 4,
     title: "LG K11 Dual",
-    img: "img/lgMobile.jpg",
+    img: "/img/lgMobile.jpg",
     price: 150,
     company: "LG",
     category: 'Mobile',
@@ -59,7 +59,7 @@ export const storeProducts = [
   {
     id: 5,
     title: "SONY Xperia XZ3",
-    img: "img/sonyMobile.jpg",
+    img: "/img/sonyMobile.jpg",
     price: 899,
     company: "SONY",
     category: 'Mobile',
@@ -73,7 +73,7 @@ export const storeProducts = [
   {
     id: 6,
     title: "HUAWEI Y5",
-    img: "img/HUAWEIMobile.jpg",
+    img: "/img/HUAWEIMobile.jpg",
     price: 100,
     company: "HUAWEI",
     category: 'Mobile',
@@ -87,7 +87,7 @@ export const storeProducts = [
   {
     id: 7,
     title: "SAMSUNG Galaxy J6+",
-    img: "img/samsungJMobile.jpg",
+    img: "/img/samsungJMobile.jpg",
     price: 165,
     company: "SAMSUNG",
     category: 'Mobile',
@@ -101,7 +101,7 @@ export const storeProducts = [
   {
     id: 8,
     title: "APPLE iPhone 8",
-    img: "img/apple2Mobile.jpg",
+    img: "/img/apple2Mobile.jpg",
     price: 850,
     company: "APPLE",
     category: 'Mobile',
@@ -116,7 +116,7 @@ export const storeProducts = [
   {
     id: 9,
     title: "SAMSUNG UE65NU8042T",
-    img: "img/samsungTV.jpg",
+    img: "/img/samsungTV.jpg",
     price: 1000,
     company: "SAMSUNG",
     category: 'TV',
@@ -130,7 +130,7 @@ export const storeProducts = [
   {
     id: 10,
     title: "LG 55UK6400PLF",
-    img: "img/lgTV.jpg",
+    img: "/img/lgTV.jpg",
     price: 700,
     company: "LG",
     category: 'TV',
@@ -144,7 +144,7 @@ export const storeProducts = [
   {
     id:11,
     title: "SONY KD-55XF9005",
-    img: "img/sonyTV.jpg",
+    img: "/img/sonyTV.jpg",
     price: 855,
     company: "SONY",
     category: 'TV',
@@ -158,7 +158,7 @@ export const storeProducts = [
   {
     id: 12,
     title: "PHILIPS 43PFT5503/12",
-    img: "img/philipsTV.jpg",
+    img: "/img/philipsTV.jpg",
     price: 800,
     company: "PHILIPS",
     category: 'TV',
@@ -172,7 +172,7 @@ export const storeProducts = [
   {
     id: 13,
     title: "SONY KD-49XF7596 ",
-    img: "img/sonyTV2.jpg",
+    img: "/img/sonyTV2.jpg",
     price: 655,
     company: "SONY",
     category: 'TV',
@@ -186,7 +186,7 @@ export const storeProducts = [
   {
     id: 14,
     title: "SHARP LC-60UI7652E",
-    img: "img/sharpTV.jpg",
+    img: "/img/sharpTV.jpg",
     price: 759,
     company: "SHARP",
     category: 'TV',
@@ -200,7 +200,7 @@ export const storeProducts = [
   {
     id: 15,
     title: "PANASONIC TX-65FX600E",
-    img: "img/panasonicTV.jpg",
+    img: "/img/panasonicTV.jpg",
     price: 500,
     company: "PANASONIC",
     category: 'TV',
@@ -214,7 +214,7 @@ export const storeProducts = [
   {
     id: 16,
     title: "TOSHIBA 49L3763DG",
-    img: "img/toshiba.TV.jpg",
+    img: "/img/toshiba.TV.jpg",
     price: 300,
     company: "TOSHIBA",
     category: 'TV',
@@ -231,7 +231,7 @@ export const storeProducts = [
 export const detailProduct = {
   id: 1,
   title: "Google Pixel - Black",
-  img: "img/product-1.png",
+  img: "/img/product-1.png",
   price: 10,
   company: "google",
   category: 'TV',
